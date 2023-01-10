@@ -28,6 +28,8 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>Cambio</p>
+      <p>Cambio2</p>
+      <p>Cambio3</p>
     </div>
   )
 }
