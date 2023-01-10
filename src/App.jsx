@@ -30,6 +30,9 @@ function App() {
       <p>Cambio</p>
       <p>Cambio4</p>
       <p>Cambio3</p>
+      <p>Cambio2</p>
+      <p>Cambio5</p>
+      <p>Cambioz</p>
     </div>
   )
 }
